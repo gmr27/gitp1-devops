@@ -1,1 +1,5 @@
 this is sample file in main branch after develop branch created
+
+
+
+this line is for testing reset command
